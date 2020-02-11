@@ -9,6 +9,7 @@
     "inline"
   ],
   "author": "Benjamin <benjamin.marguin@makina-corpus.com>",
+  "repository": "github:makinacorpus/gatsby-plugin-uninline-styles",
   "license": "ISC",
   "description": "Un-inline CSS from GatsbyJS generated HTML files"
 }
