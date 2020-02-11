@@ -1,7 +1,13 @@
 {
   "name": "gatsby-plugin-uninline-styles",
-  "version": "0.1.0",
-  "keywords": ["gatsby", "gatsby-plugin", "styles", "css", "inline"],
+  "version": "0.1.1",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "styles",
+    "css",
+    "inline"
+  ],
   "author": "Benjamin <benjamin.marguin@makina-corpus.com>",
   "license": "ISC",
   "description": ""
