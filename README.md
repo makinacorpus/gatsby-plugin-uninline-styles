@@ -1,6 +1,6 @@
 ## Description
 
-This plugin allow to un-inline CSS from generated HTML files
+This plugin allow to un-inline CSS from generated HTML files.
 
 ## How to install
 
@@ -19,7 +19,9 @@ module.exports = {
 
 ## How to contribute
 
-So nice you wanna contribute to this repository. Thank you. You may contribute in several ways like:
+So nice you wanna contribute to this repository. Thank you.
+
+You may contribute in several ways like:
 
 - Blog or tweet about the project.
 - Creating new features.

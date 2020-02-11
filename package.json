@@ -10,5 +10,5 @@
   ],
   "author": "Benjamin <benjamin.marguin@makina-corpus.com>",
   "license": "ISC",
-  "description": ""
+  "description": "Un-inline CSS from GatsbyJS generated HTML files"
 }
