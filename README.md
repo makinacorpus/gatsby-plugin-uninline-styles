@@ -1,6 +1,6 @@
 ## Description
 
-This plugin allow to un-inline CSS from generated HTML files.
+This plugin allows to un-inline CSS from generated HTML files.
 
 ## How to install
 
